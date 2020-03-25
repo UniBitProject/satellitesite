@@ -623,6 +623,32 @@ section {
   color: #2282ff;
 }
 
+
+
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+.donate .icon-box {
+  padding: 15px;
+  position: relative;
+  overflow: hidden;
+  height: 100px;
+  margin: 0;
+  background: #fff;
+  transition: all 0.3s ease-in-out;
+  border-radius: 15px;
+  text-align: center;
+  border-bottom: 3px solid #fff;
+}
+
+.donate .icon-box:hover {
+  box-shadow: 0 2px 29px 0 rgba(37, 37, 37, 0.1);
+}
+
+
+
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
